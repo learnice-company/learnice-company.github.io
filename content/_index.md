@@ -99,8 +99,8 @@ sections:
           button:
             text: Quero Usar
             url: solucao/
-        - title: Nossa Missão é criar experiências encantadoras e engajadoras de ensino e aprendizagem com uso de tecnologias digitais inteligentes.
-          #text: Abc
+        - title: Nossa Missão
+          text: Criar experiências encantadoras e engajadoras de ensino e aprendizagem com uso de tecnologias digitais inteligentes.
           feature_icon: bolt
           features:
             - "Impulsionar autonomia e agilidade de professores e alunos."
