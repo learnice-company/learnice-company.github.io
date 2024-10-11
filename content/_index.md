@@ -87,8 +87,8 @@ sections:
     id: sobre
     content:
       items:
-        - title: Impulsione o ensino e a aprendizagem com nossa tecnologia digital inteligente 
-          text: Com poucos cliques
+        - title: Impulsionamos o ensino e a aprendizagem com nossa tecnologia digital inteligente 
+          text: Com poucos cliques criamos
           feature_icon: check
           features:
             - "Avaliação continua e de qualidade."
