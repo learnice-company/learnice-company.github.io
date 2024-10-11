@@ -84,7 +84,7 @@ sections:
           icon: beaker
           description: Promove ambiente digital com estudantes ativos e protagonistas na aprendizagem!
   - block: cta-image-paragraph
-    id: solutions
+    id: sobre
     content:
       items:
         - title: Impulsione o ensino e a aprendizagem com nossa tecnologia digital inteligente 
@@ -99,15 +99,15 @@ sections:
           button:
             text: Quero Usar
             url: https://hugoblox.com/templates/
-        #- title: Large Community
-          #text: Join our large community on Discord - ask questions and get live responses
-          #feature_icon: bolt
-          #features:
-            #- "Dedicated support channel"
-            #- "3,000+ users on Discord"
-            #- "Share your site and get feedback"
+        - title: Nossa Missão
+          text: Abc
+          feature_icon: bolt
+          features:
+            - "Abc"
+            - "Abc"
+            - "Abc"
           # Upload image to `assets/media/` and reference the filename here
-          #image: coffee.jpg
+          image: coffee.jpg
           #button:
             #text: Join Discord
             #url: https://discord.gg/z8wNYzb
@@ -128,17 +128,17 @@ sections:
       #spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         #padding: ["6rem", 0, 0, 0]
-  - block: cta-card
-    id: sobre
-    content:
-      title: Nossa missão é 
-      text: Abc
+  #- block: cta-card
+    #id: sobre
+    #content:
+      #title: Nossa missão é 
+      #text: Abc
       #button:
         #text: Get Started
         #url: https://hugoblox.com/templates/
-    design:
-      card:
+    #design:
+      #card:
         # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""         
+        #css_class: "bg-primary-700"
+        #css_style: ""         
 ---
