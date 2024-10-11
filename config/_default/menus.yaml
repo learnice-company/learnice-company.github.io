@@ -6,7 +6,7 @@ main:
   - name: Principal
     url: /#principal
     weight: 10
-  - name: Solução
+  - name: Nossa Solução
     url: /#solucao
     weight: 20
   - name: Sobre Nós
