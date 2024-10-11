@@ -117,17 +117,12 @@ sections:
   - block: markdown
     id: teste
     content:
-      title: Teste
-    profiles:
-      - icon: at-symbol
-        url: 'mailto:dosreis@unicamp.br'
-        label: E-mail Me
-      - icon: brands/instagram
-        url: https://www.instagram.com/juliodosreis
-      - icon: brands/linkedin
-        url: https://www.linkedin.com/in/juliocesardosreis/
-    items:
-        - icon: sparkles
+      title: Fale Conosco
+      contact_links:
+        - icon: brands/linkedin
+          url: https://www.linkedin.com/in/juliocesardosreis/   
+      items:
+        - icon: brands/linkedin
           url: https://www.instagram.com/juliodosreis
   #- block: testimonials
     #content:
