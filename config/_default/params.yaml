@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "learnice.svg"
+      filename: "learnice_logo.png"
     button:
       enable: true
       text: "Quero Usar"

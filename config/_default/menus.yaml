@@ -4,7 +4,7 @@
 
 main:
   - name: Principal
-    url: /#principal
+    url: /#top
     weight: 10
   - name: Solução
     url: /#solucao
@@ -12,12 +12,13 @@ main:
   - name: Sobre Nós
     url: /#sobre
     weight: 30
+  - name: Fale Conosco
+    weight: 60
+    url: /#contato
   - name: Blog
     weight: 40
     url: blog/
-  - name: Fale Conosco
-    weight: 60
-    url: contato/
+  
     #hasChildren: true
   #- parent: Resources
   #  name: Blog
