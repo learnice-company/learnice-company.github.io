@@ -7,7 +7,7 @@ main:
     url: /#principal
     weight: 10
   - name: Solução
-    url: /#features
+    url: /#solucao
     weight: 20
   - name: Sobre Nós
     url: /#sobre

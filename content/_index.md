@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-10-11
 type: landing
 
 design:
@@ -10,20 +10,20 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Crie atividades educacionais fantásticas
+      text: Questionários gerados automaticamente a partir de conteúdo
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Começe aqui
+        url: https://abc
         icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+      #secondary_action:
+        #text: Read the docs
+        #url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
+        text: "Criando conhecimento juntos"
+        #link:
+          #text: "Read more"
+          #url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -37,28 +37,28 @@ sections:
           filename: bg-triangles.svg
           filters:
             brightness: 0.5
-  - block: stats
-    content:
-      items:
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
-    design:
+  #- block: stats
+    #content:
+      #items:
+        #- statistic: "1M+"
+          #description: |
+            #Websites built  
+            #with Hugo Blox
+        #- statistic: "10k+"
+          #description: |
+            #GitHub stars  
+            #since 2016
+        #- statistic: "3k+"
+          #description: |
+            #Discord community  
+            #for support
+    #design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      #css_class: "bg-gray-100 dark:bg-gray-900"
       # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
-  - block: features
+      #spacing:
+        #padding: ["1rem", 0, "1rem", 0]
+  - block: solucao
     id: features
     content:
       title: Features
