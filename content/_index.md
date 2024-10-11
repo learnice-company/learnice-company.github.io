@@ -108,6 +108,14 @@ sections:
             - "Abc"
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
+          profiles:
+            - icon: at-symbol
+              url: 'mailto:dosreis@unicamp.br'
+              label: E-mail Me
+            - icon: brands/instagram
+              url: https://www.instagram.com/juliodosreis
+            - icon: brands/linkedin
+                url: https://www.linkedin.com/in/juliocesardosreis/
           #button:
             #text: Join Discord
             #url: https://discord.gg/z8wNYzb
