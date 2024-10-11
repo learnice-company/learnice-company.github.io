@@ -12,7 +12,7 @@ sections:
     id: principal
     content:
       title: Crie atividades educacionais fantásticas
-      text: Questionários gerados automaticamente a partir de conteúdo multimodal
+      text: Questionários gerados automaticamente a partir de conteúdo multimodal (texto, audio ou videos)
       primary_action:
         text: Começe aqui
         url: solucao/
