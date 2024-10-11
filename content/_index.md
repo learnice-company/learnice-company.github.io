@@ -113,14 +113,7 @@ sections:
             #url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: contact
-    content:
-      title: Fale conosco
-      email: test@example.org
-      contact_links:
-        - icon: brands/linkedin
-          url: https://www.linkedin.com/in/juliocesardosreis/
+      css_class: "bg-gray-100 dark:bg-gray-900"  
   - block: markdown
     id: teste
     content:
