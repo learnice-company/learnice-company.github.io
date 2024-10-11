@@ -139,14 +139,5 @@ sections:
       card:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
-        css_style: ""       
-  - block: resume-experience
-    content:
-      # The user's folder name in `content/authors/`
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
+        css_style: ""         
 ---
