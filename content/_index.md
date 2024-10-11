@@ -107,21 +107,25 @@ sections:
             - "Abc"
             - "Abc"
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
-          profiles:
-            - icon: at-symbol
-              url: 'mailto:dosreis@unicamp.br'
-              label: E-mail Me
-            - icon: brands/instagram
-              url: https://www.instagram.com/juliodosreis
-            - icon: brands/linkedin
-              url: https://www.linkedin.com/in/juliocesardosreis/
+          image: coffee.jpg         
           #button:
             #text: Join Discord
             #url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: markdown
+    id: teste
+    content:
+      title: Teste
+      profiles:
+        - icon: at-symbol
+          url: 'mailto:dosreis@unicamp.br'
+          label: E-mail Me
+        - icon: brands/instagram
+          url: https://www.instagram.com/juliodosreis
+        - icon: brands/linkedin
+          url: https://www.linkedin.com/in/juliocesardosreis/
   #- block: testimonials
     #content:
       #title: ""
