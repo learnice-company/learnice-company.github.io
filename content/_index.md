@@ -99,13 +99,12 @@ sections:
           button:
             text: Quero Usar
             url: https://hugoblox.com/templates/
-        - title: Nossa Missão
-          text: Abc
+        - title: Nossa Missão é criar experiências encantadoras e engajadoras de ensino e aprendizagem com uso de tecnologias digitais inteligentes.
+          #text: Abc
           feature_icon: bolt
           features:
-            - "Abc"
-            - "Abc"
-            - "Abc"
+            - "Impulsionar autonomia e agilidade de professores e alunos."
+            - "Impulsionar construção de conhecimento no digital."            
           # Upload image to `assets/media/` and reference the filename here
           image: imagem2.png
           #button:
