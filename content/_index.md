@@ -9,6 +9,7 @@ design:
 
 sections:
   - block: hero
+    id: principal
     content:
       title: Crie atividades educacionais fantásticas
       text: Questionários gerados automaticamente a partir de conteúdo
