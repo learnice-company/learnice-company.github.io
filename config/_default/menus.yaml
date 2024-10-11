@@ -4,7 +4,7 @@
 
 main:
   - name: Principal
-    url: /#top
+    url: /#principal
     weight: 10
   - name: Solução
     url: /#solucao
