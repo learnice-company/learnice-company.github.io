@@ -71,7 +71,7 @@ sections:
           icon: bolt
           description: Atividades compartilháveis chegam rapidamente no seu email
         - name: Fácil
-          icon: sparkles
+          icon: check
           description: Envia dados das atividades em um formulário simples
         - name: Engajamento
           icon: cursor-arrow-rays

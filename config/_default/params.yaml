@@ -11,10 +11,10 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Companhia
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
+    description: 'Criação automática de atividades educacionais.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -36,13 +36,13 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "learnice-2.png"
     button:
       enable: true
-      text: "Get Started"
+      text: "Quero Usar"
       url: "https://hugoblox.com/templates/"
-    show_search: true
-    show_theme_chooser: true
+    show_search: false
+    show_theme_chooser: false
 
 # Site footer
 footer:
