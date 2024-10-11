@@ -13,11 +13,12 @@ main:
     url: /#sobre
     weight: 30
   - name: Fale Conosco
-    weight: 60
-    url: /#contato
+    url: fale_conosco/
+    weight: 60    
   - name: Blog
-    weight: 40
     url: blog/
+    weight: 40
+    
   
     #hasChildren: true
   #- parent: Resources
