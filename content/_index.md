@@ -115,7 +115,7 @@ sections:
             - icon: brands/instagram
               url: https://www.instagram.com/juliodosreis
             - icon: brands/linkedin
-                url: https://www.linkedin.com/in/juliocesardosreis/
+              url: https://www.linkedin.com/in/juliocesardosreis/
           #button:
             #text: Join Discord
             #url: https://discord.gg/z8wNYzb
