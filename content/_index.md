@@ -126,6 +126,11 @@ sections:
         url: https://www.instagram.com/juliodosreis
       - icon: brands/linkedin
         url: https://www.linkedin.com/in/juliocesardosreis/
+    items:
+        - icon: sparkles
+          url: https://www.instagram.com/juliodosreis
+
+
   #- block: testimonials
     #content:
       #title: ""
