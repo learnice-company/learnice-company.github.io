@@ -14,10 +14,10 @@ main:
     weight: 30
   - name: Fale Conosco
     url: fale_conosco/
-    weight: 60    
+    weight: 40    
   - name: Blog
     url: blog/
-    weight: 40
+    weight: 55
     
   
     #hasChildren: true
