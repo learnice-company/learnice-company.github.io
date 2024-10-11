@@ -61,27 +61,27 @@ sections:
   - block: features
     id: solucao
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: Nossa Solução
+      text: Desenhada para aprimorar aprendizagem
       items:
-        - name: Optimized SEO
+        - name: Geração Assistida
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Auxilia na geração automática assistida de atividades avaliativas de qualidade.
+        - name: Rápido
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: Atividades compartilháveis chegam rapidamente no seu email
+        - name: Fácil
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
+          description: Envia dados das atividades em um formulário simples
+        - name: Engajamento
           icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
+          description: Desenvolve engajamento ativo de professores e estudantes.
+        - name: Prático
           icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
+          description: Facilita e otimiza a rotina de professores.
+        - name: Alunos Ativos
           icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: Promove ambiente digital com estudantes ativos e protagonistas na aprendizagem!
   - block: cta-image-paragraph
     id: solutions
     content:
