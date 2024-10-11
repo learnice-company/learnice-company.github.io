@@ -1,7 +1,7 @@
 ---
-title: Terms of Service
+title: Termos e Condições
 date: 2023-12-01
 share: false
 ---
 
-Add your company legal terms here...
+Nosso termo de serviço aqui...
