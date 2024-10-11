@@ -4,4 +4,4 @@ date: 2024-11-10
 share: true
 ---
 
-Nosso termo de serviço aqui...
+Nosso termo de serviço aqui.

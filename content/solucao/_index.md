@@ -1,6 +1,6 @@
 ---
 title: 'Nossa Solução'
-type: landing
+#type: landing
 
 sections:
   - block: markdown
@@ -10,4 +10,6 @@ sections:
       text: testeeeee
 ---
 
-abcccccc
+## Teste
+
+1. teste
