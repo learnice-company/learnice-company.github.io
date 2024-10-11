@@ -12,7 +12,7 @@ sections:
     id: principal
     content:
       title: Crie atividades educacionais fantásticas
-      text: Questionários gerados automaticamente a partir de conteúdo
+      text: Questionários gerados automaticamente a partir de conteúdo multimodal
       primary_action:
         text: Começe aqui
         url: https://abc
@@ -118,14 +118,14 @@ sections:
     id: teste
     content:
       title: Teste
-      profiles:
-        - icon: at-symbol
-          url: 'mailto:dosreis@unicamp.br'
-          label: E-mail Me
-        - icon: brands/instagram
-          url: https://www.instagram.com/juliodosreis
-        - icon: brands/linkedin
-          url: https://www.linkedin.com/in/juliocesardosreis/
+    profiles:
+      - icon: at-symbol
+        url: 'mailto:dosreis@unicamp.br'
+        label: E-mail Me
+      - icon: brands/instagram
+        url: https://www.instagram.com/juliodosreis
+      - icon: brands/linkedin
+        url: https://www.linkedin.com/in/juliocesardosreis/
   #- block: testimonials
     #content:
       #title: ""
