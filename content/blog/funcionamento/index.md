@@ -1,7 +1,7 @@
 ---
 title: Entenda o funcionamento da nossa solução
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+summary: Apresentamos como construir atividades de ensino com nossa tecnologia incrível
+date: 2024-10-11
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
