@@ -1,5 +1,6 @@
 ---
 title: Fale Conosco
+type: landing
 ---
 
 sections:

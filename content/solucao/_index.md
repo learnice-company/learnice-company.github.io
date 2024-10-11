@@ -1,5 +1,6 @@
 ---
 title: 'Nossa Solução'
+type: landing
 
 sections:
   - block: markdown
