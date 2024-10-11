@@ -139,9 +139,7 @@ sections:
       card:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
-        css_style: ""
-
-        sections:
+        css_style: ""       
   - block: resume-experience
     content:
       # The user's folder name in `content/authors/`
