@@ -128,6 +128,7 @@ sections:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         #padding: ["6rem", 0, 0, 0]
   - block: cta-card
+    id: sobre
     content:
       title: Nossa missão é 
       text: Abc
@@ -139,4 +140,15 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+
+        sections:
+  - block: resume-experience
+    content:
+      # The user's folder name in `content/authors/`
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
 ---
