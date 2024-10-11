@@ -40,7 +40,7 @@ header:
     button:
       enable: true
       text: "Quero Usar"
-      url: "https://hugoblox.com/templates/"
+      url: solucao/
     show_search: false
     show_theme_chooser: false
 

@@ -15,7 +15,7 @@ sections:
       text: Questionários gerados automaticamente a partir de conteúdo multimodal
       primary_action:
         text: Começe aqui
-        url: https://abc
+        url: solucao/
         icon: rocket-launch
       #secondary_action:
         #text: Read the docs
@@ -98,7 +98,7 @@ sections:
           image: imagem.png
           button:
             text: Quero Usar
-            url: https://hugoblox.com/templates/
+            url: solucao/
         - title: Nossa Missão é criar experiências encantadoras e engajadoras de ensino e aprendizagem com uso de tecnologias digitais inteligentes.
           #text: Abc
           feature_icon: bolt
