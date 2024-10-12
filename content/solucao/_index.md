@@ -1,13 +1,12 @@
 ---
-title: 'Nossa Solução'
+title: Nossa Solução
 #type: landing
-
-sections:
-  - block: markdown
-    content:
-      title: teste
-      subtitle: testeeeeeeeeeewww
-      text: testeeeee
+#sections:
+ # - block: markdown
+  #  content:
+   #   title: teste
+    #  subtitle: testeeeeeeeeeewww
+    #  text: testeeeee
 ---
 
 ## Teste
