@@ -73,7 +73,7 @@ sections:
           description: Atividades compartilháveis chegam rapidamente no seu email
         - name: Fácil
           icon: face-smile
-          description: Envia dados das atividades em um formulário simples
+          description: Envia dados e links de vídeos em um formulário simples para a geração das atividades
         - name: Engajamento
           icon: cursor-arrow-rays
           description: Desenvolve engajamento ativo de professores e estudantes.

@@ -27,9 +27,9 @@ Inserção dos dados aqui
 - Possibilidade de conteúdo de entrada e questionários maiores do que a versão gratuíta.
 - Mais questionários mensais.
 - Você pode revisar e alterar seu questionário antes de compartilhá-lo.
-- Investimento de apenas R$ 24,99 mensais
+- Investimento de apenas R$ XX,YY mensais
 - [Assine aqui](https://www.exemplo.com)
 
 ## Escolas e Universidades
 
-[Fale Conosco!](/fale_conosco/) se você percebe que nossa solução pode ajudar na sua instituição.
+[Fale Conosco](/fale_conosco/) se você percebe que nossa solução pode ajudar na sua instituição.
