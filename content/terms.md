@@ -1,5 +1,5 @@
 ---
-title: Termos e Condições
+title: Termos de Serviço
 #date: 2024-11-10
 #share: true
 ---

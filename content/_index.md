@@ -35,7 +35,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: learnice_background.png_
           filters:
             brightness: 0.5
   #- block: stats
