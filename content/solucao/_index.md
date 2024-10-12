@@ -30,4 +30,4 @@ Inserção dos dados aqui
 
 ## Escolas e Universidades
 
-Você percebe que nossa solução pode ajudar na sua instituição, então [Fale Conosco!](/fale_conosco/)
+Você percebe que nossa solução pode ajudar na sua instituição, então [Fale Conosco!](/fale_conosco/) [A post]({{< relref "/fale_conosco" >}})
