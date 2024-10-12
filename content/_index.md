@@ -12,7 +12,7 @@ sections:
     id: principal
     content:
       title: Crie atividades educacionais fantásticas
-      text: Questionários gerados automaticamente a partir de conteúdo multimodal (texto, audio ou videos)
+      text: Questionários gerados automaticamente a partir de conteúdo multimodal (texto, audio ou vídeos)
       primary_action:
         text: Começe aqui
         url: solucao/
@@ -100,11 +100,11 @@ sections:
             text: Quero Usar
             url: solucao/
         - title: Nossa Missão
-          text: Criar experiências encantadoras e engajadoras de ensino e aprendizagem com uso de tecnologias digitais inteligentes.
+          text: Criar experiências encantadoras de ensino e aprendizagem via tecnologias digitais com inteligência artificial generativa.
           feature_icon: bolt
           features:
-            - "Impulsionar autonomia e agilidade de professores e alunos."
-            - "Impulsionar construção de conhecimento no digital."            
+            - "Impulsionar engajamento, autonomia e agilidade de professores e alunos."
+            - "Aprimorar construção de conhecimento no digital."            
           # Upload image to `assets/media/` and reference the filename here
           image: imagem2.png
           #button:
