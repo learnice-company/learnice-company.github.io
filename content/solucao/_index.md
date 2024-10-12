@@ -28,8 +28,6 @@ Inserção dos dados aqui
 - Mais questionários mensais.
 - Você pode revisar seu questionário antes de compartilhá-lo.
 
-{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
-
 
 ## Escolas e Universidades
 
