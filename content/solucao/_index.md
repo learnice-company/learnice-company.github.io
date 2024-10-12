@@ -28,7 +28,8 @@ Inserção dos dados aqui
 - Mais questionários mensais.
 - Você pode revisar seu questionário antes de compartilhá-lo.
 
+{{% button href="https://gohugo.io/" style="red" %}}Get Hugo{{% /button %}}
 
 ## Escolas e Universidades
 
-Você percebe que nossa solução pode ajudar na sua instituição, então [Fale Conosco!] (/fale_conosco/)
+Você percebe que nossa solução pode ajudar na sua instituição, então [Fale Conosco!](/fale_conosco/)
