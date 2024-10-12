@@ -27,9 +27,9 @@ Inserção dos dados aqui
 - Possibilidade de conteúdo de entrada e questionários maiores do que a versão gratuíta.
 - Mais questionários mensais.
 - Você pode revisar e alterar seu questionário antes de compartilhá-lo.
-- Investimento de Apenas R$ XX,XX mensais
+- Investimento de apenas R$ 24,99 mensais
 - [Assine aqui](https://www.exemplo.com)
 
 ## Escolas e Universidades
 
-Você percebe que nossa solução pode ajudar na sua instituição, então [Fale Conosco!](/fale_conosco/) [A post]({{< relref "/fale_conosco" >}})
+[Fale Conosco!](/fale_conosco/) se você percebe que nossa solução pode ajudar na sua instituição.
