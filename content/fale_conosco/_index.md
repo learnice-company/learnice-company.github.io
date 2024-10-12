@@ -18,3 +18,5 @@ sections:
 3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeovpFxFWyBPjGgFePSCd7MTPpp-8JrI-DvIpoOOzDwbFHLzg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+[View Terms](/terms/)
