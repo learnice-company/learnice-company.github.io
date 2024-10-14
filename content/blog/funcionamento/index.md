@@ -87,4 +87,4 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
     src="https://www.canva.com/design/DAGTk385LQ4/fK512a17ekiPWCYcqMzL-A/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGTk385LQ4&#x2F;fK512a17ekiPWCYcqMzL-A&#x2F;view?utm_content=DAGTk385LQ4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">HOW IT WORKS</a> de Julio Cesar Dos Reis
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGTk385LQ4&#x2F;fK512a17ekiPWCYcqMzL-A&#x2F;view?utm_content=DAGTk385LQ4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
