@@ -9,31 +9,37 @@ title: Geração Automática de Questionários
     #  text: testeeeee
 ---
 
-## Passo a Passo da Nossa Solução
+## Passo a passo da nossa solução
 
-1. Entrada das informações para a geração em nosso formulário.
-2. Você recebe o questionário pronto no seu e-mail para compartilhá-lo.
-3. Os participantes/estudantes respondem a atividade.
-4. Você recebe relatório de desempenho sobre todos os respondentes para uma análise unificada.
-5. Cada participante recebe relatório de seu desempenho na atividade.
+1. Entrada das informações em nosso formulário para a geração do seu questionário.
+2. Receba o questionário pronto no seu e-mail para compartilhá-lo. 
+3. Os participantes respondem a atividade.
+4. Você recebe relatório de desempenho sobre todos os respondentes para sua análise unificada.
+5. Cada participante recebe relatório sobre seu desempenho específico na atividade.
+6. Repita novamente esse passo a passo para avaliar aprendizagem em um novo conteúdo.
+
+Entenda melhor os detalhes neste post.
 
 ## Crie seu questionário
 
 Inserção dos dados aqui
 
 
-## Faça sua Assinatura
+## Faça sua Assinatura para uma experiência ainda melhor
 
-- Possibilidade de conteúdo de entrada e questionários maiores do que a versão gratuíta.
-- Mais questionários mensais.
-- Você pode revisar e alterar seu questionário antes de compartilhá-lo.
-- Investimento de apenas R$ XX,YY mensais
+- Possibilidade de conteúdos mais longos de entrada e questionários maiores (comparado com a versão gratuíta do produto).
+- Mais questionários mensais. Com a assinatura você pode gerar e compartilhar atividades todos os dias.
+- Revisão, alteração com mais controle e personalização do seu questionário antes de compartilhá-lo.
+- Investimento de apenas R$ XX,YY mensais.
 - [Assine aqui](https://www.exemplo.com)
 
-## Instituições de Ensino
+## Instituições de Ensino e Educação Corporativa
 
-[Fale Conosco](/fale_conosco/) se você entende que nossa solução pode ajudar na sua instituição.
+- [Fale Conosco](/fale_conosco/) se você entende que nossa solução pode ajudar não apenas você, mas sua instituição como um todo. 
+- Nosso produto pode ajudar em avaliação de conhecimento em seu processo seletivo de colaboradores e na avaliação ágil de trilhas de conhecimento na formação de seus colaboradores.
+- Oferecemos planos empresariais de acesso ao produto.
 
+<!-- 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -41,3 +47,4 @@ Inserção dos dados aqui
     src="https://www.canva.com/design/DAGTkcG63yw/0l3dSfqlKnuMLfMFXukSug/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
+-->

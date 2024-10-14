@@ -3,6 +3,9 @@ title: Fale Conosco
 #type: landing
 ---
 
+Gostaríamos de te ouvir. Preencha e envie o formulário abaixo e entraremos em contato contigo no mais breve possível.
+
+<!-- 
 ## Visão Geral
 
 1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
@@ -10,3 +13,4 @@ title: Fale Conosco
 3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
 [View Terms](/terms/)
+-->

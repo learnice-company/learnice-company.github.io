@@ -21,7 +21,7 @@ sections:
         #text: Read the docs
         #url: https://docs.hugoblox.com
       announcement:
-        text: "Criando conhecimento juntos"
+        text: "Produzindo conhecimento juntos"
         #link:
           #text: "Read more"
           #url: "/blog/"
@@ -63,20 +63,20 @@ sections:
     id: solucao
     content:
       title: Nossa Solução
-      text: Desenhada para aprimorar aprendizagem
+      text: Desenhada para aprimorar aprendizagem e avaliação
       items:
         - name: Geração Assistida
           icon: sparkles
           description: Auxilia na geração automática assistida de atividades avaliativas de qualidade.
         - name: Rápido
           icon: bolt
-          description: Atividades compartilháveis chegam rapidamente no seu email
+          description: Questionários criados a partir de um conteúdo chegam rapidamente no seu email para serem compartilhados
         - name: Fácil
           icon: face-smile
-          description: Envia dados e links de vídeos em um formulário simples para a geração das atividades
+          description: Você envia contéudo (ex: link de um vídeo) através de um formulário simples para a geração das atividades
         - name: Engajamento
           icon: cursor-arrow-rays
-          description: Desenvolve engajamento ativo de professores e estudantes.
+          description: Desenvolve engajamento dos envolvidos e propicia avaliação.
         - name: Prático
           icon: star
           description: Facilita e otimiza a rotina de professores.
@@ -88,12 +88,12 @@ sections:
     content:
       items:
         - title: Impulsionamos o ensino e a aprendizagem com nossa tecnologia digital inteligente 
-          text: Com poucos cliques criamos
+          text: Com poucos cliques é possível alcançar
           feature_icon: check
           features:
             - "Avaliação continua e de qualidade."
-            - "Feedbacks automáticos e precisos. "            
-            - "Percepção e análise do desempenho."            
+            - "Feedbacks automáticos e precisos de desempenho. "            
+            - "Percepção e análise da aprendizagem."            
           # Upload image to `assets/media/` and reference the filename here
           image: imagem.png
           button:
@@ -103,7 +103,7 @@ sections:
           text: Criar experiências encantadoras de ensino e aprendizagem via tecnologias digitais com inteligência artificial generativa.
           feature_icon: bolt
           features:
-            - "Impulsionar engajamento, autonomia e agilidade de professores e alunos."
+            - "Impulsionar engajamento, autonomia e agilidade para professores e alunos."
             - "Aprimorar construção de conhecimento no digital."            
           # Upload image to `assets/media/` and reference the filename here
           image: imagem2.png
