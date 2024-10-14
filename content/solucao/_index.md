@@ -9,7 +9,7 @@ title: Geração Automática de Questionários
     #  text: testeeeee
 ---
 
-## Fluxo da Nossa Solução
+## Passo a Passo da Nossa Solução
 
 1. Entrada das informações para a geração em nosso formulário.
 2. Você recebe o questionário pronto no seu e-mail para compartilhá-lo.
@@ -30,6 +30,14 @@ Inserção dos dados aqui
 - Investimento de apenas R$ XX,YY mensais
 - [Assine aqui](https://www.exemplo.com)
 
-## Escolas e Universidades
+## Instituições de Ensino
 
-[Fale Conosco](/fale_conosco/) se você percebe que nossa solução pode ajudar na sua instituição.
+[Fale Conosco](/fale_conosco/) se você entende que nossa solução pode ajudar na sua instituição.
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGTkcG63yw/0l3dSfqlKnuMLfMFXukSug/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
