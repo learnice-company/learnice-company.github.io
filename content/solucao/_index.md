@@ -36,8 +36,9 @@ Inserção dos dados aqui
 ## Instituições de Ensino e Educação Corporativa
 
 - [Fale Conosco](/fale_conosco/) se você entende que nossa solução pode ajudar não apenas você, mas sua instituição como um todo. 
-- Nosso produto pode ajudar em avaliação de conhecimento em seu processo seletivo de colaboradores e na avaliação ágil de trilhas de conhecimento na formação de seus colaboradores.
+- Nosso produto pode ajudar em avaliação de conhecimento em seu processo seletivo de contratação e na avaliação ágil de trilhas de conhecimento na formação de seus colaboradores.
 - Oferecemos planos empresariais de acesso ao produto.
+- Nossa tecnologia é facilmente integrada à qualquer sistema digital seu em uso.
 
 <!-- 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
