@@ -73,10 +73,10 @@ sections:
           description: Questionários criados a partir de um conteúdo chegam rapidamente no seu email para serem compartilhados
         - name: Fácil
           icon: face-smile
-          description: Você envia contéudo (ex: link de um vídeo) através de um formulário simples para a geração das atividades
+          description: Você envia contéudo (por exemplo o link de um vídeo) através de um formulário simples para a geração das atividades
         - name: Engajamento
           icon: cursor-arrow-rays
-          description: Desenvolve engajamento dos envolvidos e propicia avaliação.
+          description: Desenvolve engajamento dos envolvidos e propicia avaliação
         - name: Prático
           icon: star
           description: Facilita e otimiza a rotina de professores.
