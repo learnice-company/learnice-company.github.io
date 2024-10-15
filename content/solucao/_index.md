@@ -15,14 +15,14 @@ title: Geração Automática de Questionários
 2. Receba o questionário pronto no seu e-mail para compartilhá-lo. 
 3. Os participantes respondem a atividade.
 4. Você recebe relatório de desempenho sobre todos os respondentes para sua análise unificada.
-5. Cada participante recebe relatório sobre seu desempenho específico na atividade.
-6. Repita novamente esse passo a passo para avaliar aprendizagem em um novo conteúdo.
+<!--  5. Cada participante recebe relatório sobre seu desempenho específico na atividade.  -->
+5. Repita novamente esse passo a passo para avaliar aprendizagem em um novo conteúdo.
 
 Entenda melhor os detalhes neste post.
 
 ## Crie seu questionário
 
-Inserção dos dados aqui
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdOqU76kdY7xTvpuQ9gOzq3_MNxTOMKTw0pfSuqRfPo-ID5wQ/viewform?embedded=true" width="640" height="872" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 
 
 ## Faça sua Assinatura para uma experiência ainda melhor
@@ -32,6 +32,17 @@ Inserção dos dados aqui
 - Revisão, alteração com mais controle e personalização do seu questionário antes de compartilhá-lo.
 - Investimento de apenas R$ XX,YY mensais.
 - [Assine aqui](https://www.exemplo.com)
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGTm7Eh3sk/WlLWAdmwPrXwB-ALlHW4UA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGTm7Eh3sk&#x2F;WlLWAdmwPrXwB-ALlHW4UA&#x2F;view?utm_content=DAGTm7Eh3sk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+
 
 ## Instituições de Ensino e Educação Corporativa
 
