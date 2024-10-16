@@ -18,7 +18,7 @@ title: Geração Automática de Questionários
 <!--  5. Cada participante recebe relatório sobre seu desempenho específico na atividade.  -->
 5. Repita novamente esse passo a passo para avaliar aprendizagem em um novo conteúdo.
 
-Entenda melhor os detalhes neste post.
+<!-- Entenda melhor os detalhes neste post.  -->
 
 ## Crie seu questionário
 
@@ -27,11 +27,13 @@ Entenda melhor os detalhes neste post.
 
 ## Faça sua Assinatura para uma experiência ainda melhor
 
-- Possibilidade de conteúdos mais longos de entrada e questionários maiores (comparado com a versão gratuíta do produto).
+- Possibilidade de conteúdos mais longos como entrada e questionários maiores (comparado com a versão gratuíta do produto).
 - Mais questionários mensais. Com a assinatura você pode gerar e compartilhar atividades todos os dias.
 - Revisão, alteração com mais controle e personalização do seu questionário antes de compartilhá-lo.
+
+<!--
 - Investimento de apenas R$ XX,YY mensais.
-- [Assine aqui](https://www.exemplo.com)
+- [Assine aqui](https://www.exemplo.com) -->
 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
@@ -41,15 +43,14 @@ Entenda melhor os detalhes neste post.
     src="https://www.canva.com/design/DAGTm7Eh3sk/WlLWAdmwPrXwB-ALlHW4UA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGTm7Eh3sk&#x2F;WlLWAdmwPrXwB-ALlHW4UA&#x2F;view?utm_content=DAGTm7Eh3sk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 
 
 ## Instituições de Ensino e Educação Corporativa
 
-- [Fale Conosco](/fale_conosco/) se você entende que nossa solução pode ajudar não apenas você, mas sua instituição como um todo. 
-- Nosso produto pode ajudar em avaliação de conhecimento em seu processo seletivo de contratação e na avaliação ágil de trilhas de conhecimento na formação de seus colaboradores.
 - Oferecemos planos empresariais de acesso ao produto.
-- Nossa tecnologia é facilmente integrada à qualquer sistema digital seu em uso.
+- [Fale Conosco](/fale_conosco/) se você entende que nossa solução pode ajudar não apenas você, mas toda a sua instituição. 
+- Nosso produto pode contribuir em avaliação de conhecimento em seu processo seletivo de contratação e na avaliação ágil de trilhas de conhecimento na formação de seus colaboradores.
+- Nossa tecnologia é facilmente integrada à qualquer sistema digital em uso na sua empresa.
 
 <!-- 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
