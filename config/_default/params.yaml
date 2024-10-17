@@ -47,7 +47,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Learnice. Todos os direitos reservados. hello@learnice.com'
+    notice: '© {year} Learnice. Todos os direitos reservados. hello@learnice.com.br'
 
 # Localization
 locale:
