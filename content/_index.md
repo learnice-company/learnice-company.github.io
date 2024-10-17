@@ -76,10 +76,10 @@ sections:
           description: Você envia contéudo (por exemplo o link de um vídeo) através de um formulário simples para a geração das atividades
         - name: Engajamento
           icon: cursor-arrow-rays
-          description: Desenvolve engajamento dos envolvidos e propicia avaliação
+          description: Desenvolve engajamento dos envolvidos e propicia avaliação periódica simplificada.
         - name: Prático
           icon: star
-          description: Facilita e otimiza a rotina de professores.
+          description: Facilita e otimiza a rotina de professores e gestores.
         - name: Alunos Ativos
           icon: beaker
           description: Promove ambiente digital com estudantes ativos e protagonistas na aprendizagem!
