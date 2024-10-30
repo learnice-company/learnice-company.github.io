@@ -1,5 +1,5 @@
 ---
-title: Política de Privacidade e Proteção de Dados Pessoais
+title: Política de Privacidade
 #date: 2024-11-10
 #share: false
 ---
