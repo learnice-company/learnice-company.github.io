@@ -1,7 +1,7 @@
 ---
 title: Entenda o funcionamento da nossa solução
 summary: Apresentamos como construir atividades de ensino com nossa tecnologia incrível
-date: 2024-10-11
+date: 2024-11-05
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -31,7 +31,7 @@ Nossa solução funciona em seis passos:
 3. Compartilhamento do Questionário
 4. Coleta de Respostas
 5. Análise da Avaliação
-6. Entedimento do Desempenho
+6. Entendimento do Desempenho
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -62,7 +62,7 @@ Nossa solução funciona em seis passos:
 ## Compartilhamento do Questinário
 
 - Recebe o questionário facilmente no seu e-mail
-- Compartilhe o questionário online com quem desejar que responda sua atividade
+- Compartilhe o questionário online de diferentes maneiras com quem desejar que responda sua atividade
 - Receba o gabarito do questionário igualmente para análise
 <!--  - Nossa versão preemium (assinatura) permite você  -->
 
@@ -71,14 +71,14 @@ Nossa solução funciona em seis passos:
 - Participantes/Respondentes respondem o questionário a qualquer horário/lugar via web ou mobile
 - Acessam o questionário via o link disponibilizado por você
 
-## Análise de Avaliação dos Participantes
+## Análise da Avaliação dos Participantes
 
 - Receba uma análise gráfica e visual do desempenho geral de todos os respondentes em nossa versão preemium (assinatura)
-- Receba uma análise periódica simplificada considerando os diversos questionários compartilhados
+- Receba uma análise periódica mensal simplificada considerando os diversos questionários compartilhados
 
 ## Entendimento do Desempenho
 
-- Nossa versão preemium (assinatura) permite que seus respondentes receba relatórios individualizados 
+- Nossa versão preemium (assinatura) permite que seus respondentes recebam relatórios individualizados de cada questionário
 - Participantes conseguem melhor entender as questões e conceitos que desempenharam bem ou não
 
 

@@ -15,9 +15,9 @@ main:
   - name: Fale Conosco
     url: fale_conosco/
     weight: 40    
- # - name: Blog
- #   url: blog/
- #  weight: 55
+  - name: Blog
+    url: blog/
+   weight: 55
     
   
     #hasChildren: true
