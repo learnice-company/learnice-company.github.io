@@ -18,7 +18,7 @@ title: Geração Automática de Questionários
 <!--  5. Cada participante recebe relatório sobre seu desempenho específico na atividade.  -->
 5. Repita novamente esse passo a passo para avaliar aprendizagem em um novo conteúdo.
 
-<!-- Entenda melhor os detalhes neste post.  -->
+[Entenda melhor os detalhes neste post.](/blog/funcionamento)
 
 ## Crie seu questionário
 

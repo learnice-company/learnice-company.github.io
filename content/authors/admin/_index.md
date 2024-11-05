@@ -41,6 +41,8 @@ profiles:
     url: https://www.linkedin.com/company/learnice
   - icon: brands/youtube
     url: https://www.youtube.com/@learnice-tech
+  - icon: brands/facebook
+    url: https://www.youtube.com/@learnice-tech
   
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   #- icon: academicons/cv
