@@ -17,7 +17,7 @@ main:
     weight: 40    
   - name: Blog
     url: blog/
-   weight: 55
+    weight: 55
     
   
     #hasChildren: true
