@@ -59,7 +59,7 @@ Nossa solução funciona em seis passos:
 - Envia no seu e-mail o questionário pronto
 - Nossa versão preemium (assinatura) permite você revisar o questionário e ter mais controle das questões criadas
 
-## Compartilhamento do Questinário
+## Compartilhamento do Questionário Criado
 
 - Recebe o questionário facilmente no seu e-mail
 - Compartilhe o questionário online de diferentes maneiras com quem desejar que responda sua atividade
@@ -71,12 +71,12 @@ Nossa solução funciona em seis passos:
 - Participantes/Respondentes respondem o questionário a qualquer horário/lugar via web ou mobile
 - Acessam o questionário via o link disponibilizado por você
 
-## Análise da Avaliação dos Participantes
+## Análise da Avaliação 
 
 - Receba uma análise gráfica e visual do desempenho geral de todos os respondentes em nossa versão preemium (assinatura)
 - Receba uma análise periódica mensal simplificada considerando os diversos questionários compartilhados
 
-## Entendimento do Desempenho
+## Entendimento do Desempenho pelos Participantes
 
 - Nossa versão preemium (assinatura) permite que seus respondentes recebam relatórios individualizados de cada questionário
 - Participantes conseguem melhor entender as questões e conceitos que desempenharam bem ou não
