@@ -70,7 +70,7 @@ sections:
           description: Auxilia na geração automática assistida de atividades avaliativas de qualidade.
         - name: Rápido
           icon: bolt
-          description: Questionários criados a partir de um conteúdo chegam rapidamente no seu email para serem compartilhados
+          description: Questionários criados a partir de um conteúdo chegam rapidamente no seu e-mail para serem compartilhados
         - name: Fácil
           icon: face-smile
           description: Você envia contéudo (por exemplo o link de um vídeo) através de um formulário simples para a geração das atividades
